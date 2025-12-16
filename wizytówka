@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Twoje Imię i Nazwisko</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      text-align: center;
+      padding: 60px;
+    }
+    .card {
+      background: white;
+      max-width: 400px;
+      margin: auto;
+      padding: 30px;
+      border-radius: 8px;
+    }
+    h1 { margin-bottom: 10px; }
+    p { color: #555; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Twoje Imię</h1>
+    <p>Stanowisko / czym się zajmujesz</p>
+    <p>📧 email@domena.pl</p>
+    <p>📞 123 456 789</p>
+  </div>
+</body>
+</html>
